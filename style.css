@@ -106,6 +106,12 @@ header {
     -webkit-text-stroke: 1px #0050C3;
 }
 
+.hero-text h2{
+
+    color: #090d16;
+
+}
+
 .hero-text h1 span {
     background: linear-gradient(45deg, var(--secondary), #38bdf8);
     -webkit-background-clip: text;
