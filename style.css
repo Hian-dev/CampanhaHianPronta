@@ -115,6 +115,7 @@ header {
 .hero-text p {
     font-size: clamp(1rem, 2vw, 1.2rem);
     margin-bottom: 30px;
+    color: #0f172a;
     line-height: 1.6;
     animation: fadeIn 1s ease-out;
 }
